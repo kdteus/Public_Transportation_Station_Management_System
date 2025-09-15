@@ -1,7 +1,7 @@
 # Public_Transportation_Station_Management_System
 
 ## Overview
-This project is a **Transport Management System** implemented in C++ using Object-Oriented Programming (OOP) principles.  
+This project is a **Public Transportation Station Management System** implemented in C++ using Object-Oriented Programming (OOP) principles.  
 It demonstrates the design of multiple vehicle types, passenger interactions, and driver assignments.  
 
 The program provides:
@@ -25,7 +25,7 @@ g++ main.cpp -o main.exe
 ```
 
 ## AI Disclosure
-This project was built with the assistance of **ChatGPT (OpenAI’s GPT-5 model)** for:
+This project was built with the assistance of **ChatGPT** for:
 - Code structuring and debugging support.
 - Adding extended features (e.g., Motorbike vehicle type with *amount* instead of *capacity*).
 - Generating test cases and sample drivers/passengers.
