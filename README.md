@@ -58,6 +58,7 @@ All final decisions, adjustments, and testing were done manually by the develope
   - View available routes.
   - View status of all vehicles.
   - View capacity or amount.
+  - View all drivers
 - **Admin Menu** (password = `1234`)
   - View all vehicle info.
   - Add new vehicles.
